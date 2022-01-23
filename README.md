@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello !! I'm George :wave:
 
-<!--
-**gnvs/gnvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Webmaster with over 7 years of commercial development experience. I have good knowledge in the field of backend development in PHP.
+Mostly projects based on popular CMS.
+From a business card site to an online store.
 
-Here are some ideas to get you started:
+### I use at work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ My Basic Technical Stack - HTML, CSS, JS, PHP, MySQL, PostgreSQL, MongoDB;
++ Version control - Github, Gitlab;
++ CMS - 1C-Bitrix, Drupal, Wordpress;
++ CRM - Bitrix24, AmoCRM.
+
+### Write me
+
+:mailbox_with_mail: Contact with me: <a href='mailto:gnvsxx@gmail.com'>gnvsxx@gmail.com</a><br />
+PS: I don't use social media for work.
