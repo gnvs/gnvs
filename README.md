@@ -13,5 +13,5 @@ From a business card site to an online store.
 
 ### Write me
 
-:mailbox_with_mail: Contact with me: <a href='mailto:george@fatnev.ru'>george@fatnev.ru</a><br />
+:mailbox_with_mail: Contact with me: <a href='mailto:gnvsxx@gmail.com'>gnvsxx@gmail.com</a><br />
 PS: I don't use social media for work.
