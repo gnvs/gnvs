@@ -6,8 +6,8 @@ From a business card site to an online store.
 
 ### I use at work
 
-+ My Basic Technical Stack - HTML, CSS, JS, PHP, MySQL, PostgreSQL, MongoDB;
-+ Version control - Github, Gitlab;
++ My Basic Technical Stack - HTML, CSS, JS, PHP, MySQL;
++ Version control - Github;
 + CMS - 1C-Bitrix, Drupal, Wordpress;
 + CRM - Bitrix24, AmoCRM.
 
