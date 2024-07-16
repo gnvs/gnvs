@@ -3,7 +3,7 @@
 
 My name is George, and I specialize in creating and maintaining websites on the platforms Drupal, Wordpress and 1C-Bitrix, as well as implementing CRM Bitrix24. Here you will find my projects related to web development and CRM, as well as my research in these areas. I look forward to communication, advice, and potential collaboration.
 
-## :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
