@@ -1,7 +1,7 @@
 
 # Hi, :wave:
 
-My name is George, and I specialize in creating and maintaining websites on the platforms Drupal, Wordpress and 1C-Bitrix, as well as implementing CRM Bitrix24. Here you will find my projects related to web development and CRM, as well as my research in these areas. I look forward to communication, advice, and potential collaboration.
+My name is George, and I specialize in creating and maintaining websites on the platforms 1C-Bitrix, Drupal and Wordpress, as well as implementing CRM Bitrix24. Here you will find my projects related to web development and CRM, as well as my research in these areas. I look forward to communication, advice, and potential collaboration.
 
 ### :gear: Languages and Tools:
 
@@ -23,5 +23,6 @@ My name is George, and I specialize in creating and maintaining websites on the 
 
 ### :pencil2: Contact:
 
-- Personal site: <a href="https://gnvs.ru">https://gnvs.ru</a>
-- Email: <a href="mailto:mail@gnvs.ru">mail@gnvs.ru</a>
+- Personal site: <a href="https://fatnev.ru">https://fatnev.ru</a>
+- Email: <a href="mailto:george@fatnev.ru">george@fatnev.ru</a>
+- Telegram: <a href="https://t.me/gfatnev">https://t.me/gfatnev</a>
