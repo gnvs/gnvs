@@ -24,5 +24,5 @@ My name is George, and I specialize in creating and maintaining websites on the 
 ### :pencil2: Contact:
 
 - Personal site: <a href="https://fatnev.ru">https://fatnev.ru</a>
+- Blog: <a href="https://gnvs.ru">https://gnvs.ru</a>
 - Email: <a href="mailto:george@fatnev.ru">george@fatnev.ru</a>
-- Telegram: <a href="https://t.me/gfatnev">https://t.me/gfatnev</a>
