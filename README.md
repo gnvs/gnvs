@@ -23,6 +23,6 @@ My name is George, and I specialize in creating and maintaining websites on the 
 
 ### :pencil2: Contact:
 
-- Personal site: <a href="https://gnvs.ru">https://gnvs.ru</a>
+- Personal site: <a href="https://fatnev.ru">https://fatnev.ru</a>
+- Blog: <a href="https://gnvs.ru">https://gnvs.ru</a>
 - Email: <a href="mailto:mail@gnvs.ru">mail@gnvs.ru</a>
-- Telegram: <a href="https://t.me/gnvsv">https://t.me/gnvsv</a>
