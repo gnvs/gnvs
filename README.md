@@ -1,7 +1,7 @@
 
 # Hi, :wave:
 
-My name is George, and I specialize in creating and maintaining websites on the platforms 1C-Bitrix and Drupal, as well as implementing CRM Bitrix24. Here you will find my projects related to web development and CRM, as well as my research in these areas. I look forward to communication, advice, and potential collaboration.
+My name is George, and I specialize in creating and maintaining websites. Here you will find my projects related to web development and CRM, as well as my research in these areas. 
 
 ### :gear: Languages and Tools:
 
@@ -16,8 +16,3 @@ My name is George, and I specialize in creating and maintaining websites on the 
 <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" title="Drupal" alt="Drupal" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
 </div>
-
-### :pencil2: Contact:
-
-- Personal site: <a href="https://fatnev.ru">https://fatnev.ru</a>
-- Email: <a href="mailto:george@fatnev.ru">george@fatnev.ru</a>
