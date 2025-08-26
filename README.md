@@ -11,5 +11,5 @@ My name is George, and I specialize in creating and maintaining websites. Here y
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/gnvs/gnvs/bitrix_logo.svg"  title="1C-Bitrix" alt="1C-Bitrix" width="40" height="40"/>&nbsp;
+<img src="https://github.com/gnvs/img/bitrix_logo.svg"  title="1C-Bitrix" alt="1C-Bitrix" width="40" height="40"/>&nbsp;
 </div>
