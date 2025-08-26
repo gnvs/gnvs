@@ -16,4 +16,5 @@ My name is George, and I specialize in creating and maintaining websites. Here y
 ### Contacts
 
 Email: george@fatnev.ru
+
 Personal site: https://fatnev.ru
