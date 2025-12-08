@@ -15,4 +15,5 @@ My name is George, and I specialize in creating and maintaining websites. Here y
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
-### my personal profile is here https://github.com/fatnev
+### This is my work profile, 
+personal here https://github.com/fatnev
