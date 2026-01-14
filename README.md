@@ -14,6 +14,3 @@ My name is George, and I specialize in creating and maintaining websites. Here y
 <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" title="Drupal" alt="Drupal" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
-
-### This is my work profile, 
-personal here https://github.com/fatnev
