@@ -12,7 +12,7 @@ My name is George, and I specialize in creating and maintaining websites. Here y
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 <img src="https://fatnev.ru/upload/s1/1c_bitrix_logo.svg" title="1C-Битрикс" alt="1C-Битрикс" width="40" height="40"/>&nbsp;
-<img src="https://fatnev.ru/upload/s1/b24.svg" title="Битрикс24" alt="Битрикс24" width="40" height="40"/>&nbsp;
+<img src="https://fatnev.ru/upload/s1/bx24.svg" title="Битрикс24" alt="Битрикс24" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" title="Drupal" alt="Drupal" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
